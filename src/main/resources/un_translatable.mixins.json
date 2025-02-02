@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "mod.untranslatable.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"MixinTranslatable"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
